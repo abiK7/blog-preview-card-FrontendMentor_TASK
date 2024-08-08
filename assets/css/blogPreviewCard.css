@@ -1,0 +1,22 @@
+@font-face{
+	font-family: "Outfit-Bold";
+	src: url(../fonts/Outfit-Bold.ttf);
+	font-style: bold;
+}
+@font-face{
+	font-family: "Outfit-Regular";
+	src: url(../fonts/Outfit-Regular.ttf);
+	font-style: normal;
+}
+html, *{
+	margin: 0;
+	padding:0;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+}
+body{
+	background:#F4D04E;
+	display: flex;
+}
