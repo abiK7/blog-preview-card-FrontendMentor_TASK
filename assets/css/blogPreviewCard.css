@@ -90,3 +90,6 @@ body{
 .card--img img {
     border-radius: 10px;
 }
+.cardBody h1:hover {
+    color: #F4D04E;
+}
