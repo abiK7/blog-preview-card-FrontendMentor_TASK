@@ -42,7 +42,11 @@ body{
 	height:200px;
 }
 .attribution {
-    text-align: center;
+     text-align: center;
+    position: fixed;
+    bottom: 0;
+    font-size: 12px;
+    width: 100%;
 }
 .tag {
     display: block;
