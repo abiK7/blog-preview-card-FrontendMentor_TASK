@@ -62,7 +62,8 @@ body{
 .cardBody h1 {
     font-family:'Figtree-ExtraBold';
     font-size:24px;
-    margin-bottom:20px
+    margin-bottom:20px;
+    cursor:pointer;
 }
 .infoTextStyle {
     color: #6B6B6B;
