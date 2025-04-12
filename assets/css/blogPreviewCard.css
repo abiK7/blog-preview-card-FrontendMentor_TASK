@@ -99,3 +99,10 @@ body{
 .cardBody h1:hover {
     color: #F4D04E;
 }
+span.profileInitial {
+    display: inline-block;
+    background: #f4d04e;
+    padding: 7px;
+    border-radius: 100%;
+    font-size:12px;
+}
